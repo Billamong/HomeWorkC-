@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\bin\Debug\net7.0\Dopzad.exe
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\bin\Debug\net7.0\Dopzad.deps.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\bin\Debug\net7.0\Dopzad.runtimeconfig.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\bin\Debug\net7.0\Dopzad.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\bin\Debug\net7.0\Dopzad.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\refint\Dopzad.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\Dopzad.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Dopzad\obj\Debug\net7.0\ref\Dopzad.dll
