@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dopzad3Ceminar/1.0.0": {
+        "runtime": {
+          "Dopzad3Ceminar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dopzad3Ceminar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
