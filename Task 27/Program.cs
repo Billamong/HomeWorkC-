@@ -1,4 +1,7 @@
 ﻿Console.Clear();
-Console.WriteLine("Число :");
-double n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"Результат {(1 + n) / 2 * n}");
+Console.WriteLine("Введите число : ");
+string s = Console.ReadLine()!;
+int sum = 0;
+for (int i = 0; i < s.Length; i++)
+    sum = sum + int.Parse(s[i].ToString());
+Console.WriteLine(sum);
