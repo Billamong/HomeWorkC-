@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿
+
+Console.Clear();
 Console.WriteLine("Введите количество кустов");
 int s = Convert.ToInt32(Console.ReadLine());
 int[] array = new int [s];
