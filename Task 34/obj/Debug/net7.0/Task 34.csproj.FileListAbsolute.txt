@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\bin\Debug\net7.0\Task 34.exe
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\bin\Debug\net7.0\Task 34.deps.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\bin\Debug\net7.0\Task 34.runtimeconfig.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\bin\Debug\net7.0\Task 34.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\bin\Debug\net7.0\Task 34.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\refint\Task 34.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\Task 34.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Task 34\obj\Debug\net7.0\ref\Task 34.dll
