@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\bin\Debug\net7.0\PloshadiTreygolnika.exe
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\bin\Debug\net7.0\PloshadiTreygolnika.deps.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\bin\Debug\net7.0\PloshadiTreygolnika.runtimeconfig.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\bin\Debug\net7.0\PloshadiTreygolnika.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\bin\Debug\net7.0\PloshadiTreygolnika.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\refint\PloshadiTreygolnika.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\PloshadiTreygolnika.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\PloshadiTreygolnika\obj\Debug\net7.0\ref\PloshadiTreygolnika.dll
