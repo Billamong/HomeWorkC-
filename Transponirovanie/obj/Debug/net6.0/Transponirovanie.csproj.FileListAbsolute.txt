@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\bin\Debug\net6.0\Transponirovanie.exe
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\bin\Debug\net6.0\Transponirovanie.deps.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\bin\Debug\net6.0\Transponirovanie.runtimeconfig.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\bin\Debug\net6.0\Transponirovanie.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\bin\Debug\net6.0\Transponirovanie.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\refint\Transponirovanie.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\Transponirovanie.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\Transponirovanie\obj\Debug\net6.0\ref\Transponirovanie.dll
