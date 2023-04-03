@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\bin\Debug\net6.0\ZapDiagonali.exe
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\bin\Debug\net6.0\ZapDiagonali.deps.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\bin\Debug\net6.0\ZapDiagonali.runtimeconfig.json
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\bin\Debug\net6.0\ZapDiagonali.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\bin\Debug\net6.0\ZapDiagonali.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\refint\ZapDiagonali.dll
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.pdb
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ZapDiagonali.genruntimeconfig.cache
+C:\Users\user\Desktop\С#\Семинар\HomeWorkC-\ZapDiagonali\obj\Debug\net6.0\ref\ZapDiagonali.dll
